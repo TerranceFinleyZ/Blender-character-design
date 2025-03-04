@@ -14,3 +14,5 @@ Coming soon!
 This is the AI rendition of the main model character design, using Canva and CapCut open ai generator.
 
 Soon the AI model will be rendered and converted into Blender for 3D conversion to be installed into the Unreal Engine system as a playable character.
+
+Using blender to upload into unreal engine.
